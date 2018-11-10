@@ -1,2 +1,2 @@
 # Python
-Just few tasks which were solved in python.
+Just few playground tasks which were solved in python.
