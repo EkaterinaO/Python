@@ -1,5 +1,5 @@
 # Python
-Just few playground tasks which were solved in python.
+Just few playground tasks which were solved with python.
 
 1. IMDB parser - word count of IMDB description of certain movie. 
 2. Kinopoisk parser - mean value of all votes, which film gets on the kinopoisk website. 
